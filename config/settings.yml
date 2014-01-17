@@ -1,8 +1,8 @@
 # Be sure to restart your server after you modify this file.
 
 # Register your app at https://soundcloud.com/you/apps and copy&paste Client ID and Secret here
-client_id: ''
-client_secret: ''
+client_id: '57a7f2c9050a868df4a6270b5273da14'
+client_secret: '1717b2534efa4ec06aa24a4d892703b4'
 
 # Your secret key for verifying the integrity of signed cookies.
 # If you change this key, all old signed cookies will become invalid!
